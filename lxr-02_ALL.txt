@@ -31,13 +31,13 @@ MAXRATE NULL
 # NAME supports all alphanumeric ASCII, and ' ', '_', '-', '+' - can also be NULL
 # Please note this section will be discarded for tracks which are not DRUM tracks
 [DRUMLANES]
-7:NULL:7:NULL:OH
-6:NULL:6:NULL:CH
-5:NULL:5:NULL:CY_CP
-4:NULL:4:NULL:SN
-3:NULL:3:NULL:V3
-2:NULL:2:NULL:V2
-1:NULL:1:NULL:V1
+7:NULL:7:NULL OH
+6:NULL:6:NULL CH
+5:NULL:5:NULL CY_CP
+4:NULL:4:NULL SN
+3:NULL:3:NULL V3
+2:NULL:2:NULL V2
+1:NULL:1:NULL V1
 [/DRUMLANES]
 
 

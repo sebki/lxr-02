@@ -37,27 +37,27 @@ MAXRATE NULL
 # Syntax: CC_NUMBER NAME or CC_NUMBER:DEFAULT=xx NAME
 # DEFAULT_VALUE must be a valid number between 0 and 127
 [CC]
-7 CP_Osc1WF
-17 CP_Osc1CT
-18 CP_Osc1FT
-24 CP_WFModOsc1
-25 CP_WFModOsc2
-30 CP_CTModOsc1   #Coarse Tune Mod Osc1
-31 CP_CTModOsc2
-32 CP_GainModOsc1 #Gain Mod Osc1
-33 CP_GainModOsc2
-42 CP_FltFrq
-48 CP_FltRes
-58 CP_VolEnvAtk
-59 CP_VolEnvDec
-67 CP_VolEGSlp
-70 CP_VolEgRpt
-93 CP_Vol
-101 CP_Pan
-107 CP_Dist
-113 CP_Dcm
-120 CP_LFOFrq
-126 CP_LFOAmt
+7 Osc1WF
+17 Osc1CT
+18 Osc1FT
+24 WFModOsc1
+25 WFModOsc2
+30 CTModOsc1   #Coarse Tune Mod Osc1
+31 CTModOsc2
+32 GainModOsc1 #Gain Mod Osc1
+33 GainModOsc2
+42 FltFrq
+48 FltRes
+58 VolEnvAtk
+59 VolEnvDec
+67 VolEGSlp
+70 VolEgRpt
+93 Vol
+101 Pan
+107 Dist
+113 Dcm
+120 LFOFrq
+126 LFOAmt
 [/CC]
 
 

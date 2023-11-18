@@ -37,26 +37,26 @@ MAXRATE NULL
 # Syntax: CC_NUMBER NAME or CC_NUMBER:DEFAULT=xx NAME
 # DEFAULT_VALUE must be a valid number between 0 and 127
 [CC]
-5 SN_Osc1WF
-15 SN_Osc1CT
-16 SN_Osc1FT
-28 SN_NseFrq      #Noise Frequency    
-29 SN_MixOscNse   #Mix Osc/Noise
-41 SN_FltFrq
-47 SN_FltRes
-56 SN_VolEnvAtk
-57 SN_VolEnvDec
-66 SN_VolEGSlp    #Volume EG Slope
-69 SN_VolEGRpt    #Volume EG Repeat Count
-74 SN_VolEnvDec
-78 SN_EnvModAmt
-82 SN_ModEnvSlp
-92 SN_Vol
-100 SN_Pan
-106 SN_Dist
-112 SN_Dcm
-119 SN_LFOFrq
-125 SN_LFOAmt
+5 Osc1WF
+15 Osc1CT
+16 Osc1FT
+28 NseFrq      #Noise Frequency    
+29 MixOscNse   #Mix Osc/Noise
+41 FltFrq
+47 FltRes
+56 VolEnvAtk
+57 VolEnvDec
+66 VolEGSlp    #Volume EG Slope
+69 VolEGRpt    #Volume EG Repeat Count
+74 VolEnvDec
+78 EnvModAmt
+82 ModEnvSlp
+92 Vol
+100 Pan
+106 Dist
+112 Dcm
+119 LFOFrq
+125 LFOAmt
 [/CC]
 
 
